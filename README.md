@@ -71,7 +71,7 @@ http://www.studysithanis.com
 ### Image sytax  
  <!-- ![profile](./WEATHER-APP/images/clear.png) -->
 
-<img src="./WEATHER-APP/images/clear.png" width="400" title="profile imges"/> </br>
+<img src="./WEATHER-APP/images/clear.PNG" width="400" title="profile imges"/> </br>
 😃
 
 
